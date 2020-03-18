@@ -21,13 +21,13 @@ Place the `data` in the same folder as the code.
 https://drive.google.com/open?id=1RBBSpxIfen3_MmVeiPm1XsP7TesmA4hd
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/LK%20Template%20Tracking/result_1.png">
+  <img src="https://github.com/ramaprashanth/lk-template-tracking/blob/master/result_1.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/LK%20Template%20Tracking/result_2.png">
+  <img src="https://github.com/ramaprashanth/lk-template-tracking/blob/master/result_2.png">
   </p>
 
   <p align="center">
-  <img src="https://github.com/ramaprashanth/perception-for-autonomous-robots/blob/master/LK%20Template%20Tracking/result_3.png">
+  <img src="https://github.com/ramaprashanth/lk-template-tracking/blob/master/result_3.png">
   </p>
